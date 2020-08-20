@@ -1,3 +1,17 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://PotassiumIodide.github.io/first-hugo-blog/blog"
+publishDir = "docs"
+
+title = "First Hugo Blog"
+subtitle = "Subtitle"
+
+logoHomeLink = "/first-hugo-blog/blog"
+
+#    [languages.en.menu]
+#      [[languages.en.menu.main]]
+#        identifier = "about"
+#        name = "About"
+#        url = "/about"
+#      [[languages.en.menu.main]]
+#        identifier = "showcase"
+#        name = "Showcase"
+#        url = "/showcase"
